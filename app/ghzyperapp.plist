@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/niapp/yoga/raw/master/app/ghzanmei.ipa</string>
+					<string>https://raw.githubusercontent.com/xinxix/apps/master/app/ghzanmei.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>

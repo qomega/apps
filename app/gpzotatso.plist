@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://gitee.com/niapp/yoga/raw/master/app/gpzotatso.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/57/9f/f0/579ff0bb-bb10-7c55-d763-96d382f5d898/source/512x512bb.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.gpzotatso.apps</string>
+				<key>bundle-version</key>
+				<string>2.9.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>xinshare</string>
+				<key>title</key>
+				<string>Potatso2.9.0</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

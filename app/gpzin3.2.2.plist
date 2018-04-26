@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://gitee.com/niapp/yoga/raw/master/app/gpzin3.2.2.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ff/e3/db/ffe3db9f-6bcf-8e09-e1bf-45a4cf00ed1f/source/512x512bb.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.gpzin3.2.2.apps</string>
+				<key>bundle-version</key>
+				<string>3.2.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>xinshare</string>
+				<key>title</key>
+				<string>Pin3.2.2旧版</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

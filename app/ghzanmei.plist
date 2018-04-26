@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://gitee.com/niapp/yoga/raw/master/app/ghzanmei.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/35/e5/07/35e50726-57cc-9e02-4c82-7d2481dc981b/source/512x512bb.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.hanmeier.apps</string>
+				<key>bundle-version</key>
+				<string>6.1.8</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>xinshare</string>
+				<key>title</key>
+				<string>CloudSpeed1.3.5</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
